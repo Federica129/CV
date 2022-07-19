@@ -1,3 +1,14 @@
+a {
+  text-decoration: none;
+  color: black;
+  transition: 0.5s;
+}
+
+a:hover {
+  color: rgba(88, 137, 58);
+  transition: 0.3s;
+}
+
 .main-header {
   display: flex;
   flex-direction: row;
@@ -18,10 +29,10 @@
 }
 
 .main-nav {
-  background-color: rgb(255, 255, 255);
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 15px;
 }
 
 .main-nav2 ul {

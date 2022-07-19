@@ -1,11 +1,19 @@
 // import logo from "./logo fs.jpeg";
 import "./App.css";
-import Nav from "./components/Nav";
+import Nav from "./components/Navbar/Nav";
+import Sec from "./components/Section/Section";
+import Sec1 from "./components/SectionText/sectionText";
+import Footer from "./components/Footer/footer";
 
 function App() {
   return (
-    <div>
+    <div className="body">
       <Nav />
+      <Sec />
+      <Sec1 />
+      <div>
+        <Footer />
+      </div>
     </div>
   );
 }

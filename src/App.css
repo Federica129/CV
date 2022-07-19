@@ -1,3 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Joan&display=swap");
+
+* {
+  font-family: "Joan", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.body {
+  background-color: white;
+  border-radius: 10px;
+}
+
 /* .App {
   text-align: center;
 }

@@ -1,4 +1,4 @@
-import logo from "../logo fs.jpeg";
+import logo from "./logo fs.jpeg";
 import "./Nav.css";
 
 function Nav() {
@@ -11,13 +11,13 @@ function Nav() {
       <nav className="main-nav2">
         <ul>
           <li>
-            <a>About me</a>
+            <a href="#Aboutme">About me</a>
           </li>
           <li>
-            <a>My projects</a>
+            <a href="#Myprojects">My projects</a>
           </li>
           <li>
-            <a>Contact</a>
+            <a href="#Contact">Contact</a>
           </li>
         </ul>
       </nav>
