@@ -14,11 +14,10 @@ function sectionText() {
             Immediately after high school, I did my first work experiences in
             the world of retail where I improved my skills (in particulary) in
             the customers contact.
-            <br></br>During my experiences, in March 2020, in Italy they closed
-            the activities due to COVID for 3 months.. and here I known,
-            studied, played as a pastime for the first time HTML/CSS; after that
-            period, I continued to do my work even if with my curiosity to learn
-            more about it.
+            <br></br>In March 2020, in Italy they closed the activities due to
+            COVID for 3 months.. and here I known, studied, played as a pastime
+            for the first time HTML/CSS; after that period, I continued to do
+            other even if with my curiosity to learn more about it.
             <br></br>Today I decided to follow a course of study thanks to
             <a className="linktext" href="https://edgemony.com/">
               Edgemony

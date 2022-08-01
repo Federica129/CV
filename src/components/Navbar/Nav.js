@@ -13,9 +13,9 @@ function Nav() {
           <li>
             <a href="#Aboutme">About me</a>
           </li>
-          <li>
+          {/* <li>
             <a href="#Myprojects">My projects</a>
-          </li>
+          </li> */}
           <li>
             <a href="#Contact">Contact</a>
           </li>

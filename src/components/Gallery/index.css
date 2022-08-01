@@ -1,0 +1,8 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+h2 {
+  margin: 5px;
+  font-size: 2rem;
+  text-align: center;
+  text-shadow: 2px 2px 3px rgb(143 143 143 / 49%);
+}
